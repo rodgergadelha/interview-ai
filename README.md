@@ -2,7 +2,8 @@
 
 Bem-vindo à **Interview AI API**, uma interface simples e 
 direta para gerenciar perguntas de entrevista em sequência. 
-Esta API foi criada para fornecer uma experiência fluida ao lidar com questionários ou processos de entrevista.
+Esta API foi criada para ajudar na preparação de entrevistas, permitindo que você
+gere perguntas, responda-as e receba feedbacks detalhados sobre suas respostas.
 
 ---
 
@@ -17,6 +18,8 @@ Certifique-se de que você possui os seguintes itens instalados:
     - `OPENAI_API_KEY`: Chave de API para integração com o OpenAI
 
 ## 🚀 Endpoints
+
+### Esses endpoints também estão documentados com Swagger, acessível em `/swagger-ui/index.html`
 
 ### 📌 Criar perguntas e obter a primeira
 
