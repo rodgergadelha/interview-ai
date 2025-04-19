@@ -24,7 +24,7 @@ Certifique-se de que você possui os seguintes itens instalados:
 
 **POST** `/api/interviews`
 
-Gera todas as perguntas da entrevista via Chat GPT com os parâmetros informados e retorna a **primeira pergunta** da sequência.
+Gera todas as perguntas da entrevista via ChatGPT com os parâmetros informados e retorna a **primeira pergunta** da sequência.
 
 #### 🔁 Exemplo de corpo da requisição:
 ```json
