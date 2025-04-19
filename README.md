@@ -10,7 +10,6 @@ gere perguntas, responda-as e receba feedbacks detalhados sobre suas respostas.
 ## Pré-requisitos
 Certifique-se de que você possui os seguintes itens instalados:
 - **Java 21** ou superior
-- **Maven** (para build e gerenciamento de dependências)
 - **PostgreSQL** (banco de dados utilizado pelo projeto)
 - Variáveis de ambiente necessárias:
     - `SPRING_DATASOURCE_USERNAME`: Usuário do banco de dados
