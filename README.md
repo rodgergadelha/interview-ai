@@ -74,7 +74,7 @@ Caso não haja mais perguntas, a resposta será 204 (No Content).
 
 **GET** `/api/interviews/{interviewUuid}/feedbacks`
 
-Obtém feedbacks para cada resposta da entrevista com o uuid informado.
+Obtém feedbacks gerados via ChatGPT para cada resposta da entrevista com o uuid informado.
 
 #### 🔁 Exemplo de resposta:
 ```json
