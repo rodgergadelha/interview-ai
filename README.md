@@ -1,4 +1,4 @@
-# 📚 Interview AI API
+# Interview AI API
 
 Bem-vindo à **Interview AI API**, uma interface simples e 
 direta para gerenciar perguntas de entrevista em sequência. 
